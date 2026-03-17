@@ -1,0 +1,1 @@
+Este hook retorna una referencia de UseRef, que se le asgina a un componente. Al montar ese componente, si el componente esta fuera del viewport, hace scroll hasta el inicio del componente para que se vea en pantalla
